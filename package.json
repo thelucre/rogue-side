@@ -1,0 +1,12 @@
+{
+	"name": "rogue-side",
+	"version": "0.0.1",
+	"description": "node.js MUD server",
+	"dependencies": {
+		"express": "^4.10.2"
+	},
+	"scripts": {
+		"start": "node index.js"
+	},
+	"main": "index.js"
+}
